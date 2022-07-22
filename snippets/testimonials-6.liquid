@@ -16,7 +16,7 @@
                                 <div class="text-color-subtext rte not-change text-base leading-[28px]">{{ block.settings.description }}</div>
                             </div>
                             {% if block.settings.image != blank %}
-                                <div class="shrink-0 ml-6 w-[90px] 2xl:w-[128px] testimonial__item-thumb">
+                                <div class="shrink-0 ml-6 w-[90px] 2xl:w-[128px] testimonial__item-thumb" {% if st.image_max_width != blank %} style="width: {{ st.image_max_width }};"{% endif %}>
                                     {% render 'responsive-image', image: block.settings.image %}
                                 </div>
                             {% endif %}

@@ -16,7 +16,7 @@
 
                         {% if block.settings.image != blank %}
                             {% if block.settings.image_link != blank %}<a href="{{ block.settings.image_link | default: '#' }}">{% endif %}
-                            <div class="mt-[18px] block cursor-pointer hover:text-color-subtext">
+                            <div class="mt-[18px] block cursor-pointer hover:text-color-subtext" {% if st.image_max_width != blank %} style="width: {{ st.image_max_width }};"{% endif %}>
                                 {% render 'responsive-image', image: block.settings.image, wrapper_class: 'w-12 mx-auto' %}
                                 {% if block.settings.image_text != blank %}
                                     <div class="sf__tes-image-text mt-2.5 text-sm not-change">

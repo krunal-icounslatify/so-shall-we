@@ -16,8 +16,8 @@
 
                         {% if block.settings.image != blank %}
                             {% if block.settings.image_link != blank %}<a href="{{ block.settings.image_link | default: '#' }}">{% endif %}
-                            <div class="mt-[18px] block cursor-pointer hover:text-color-subtext">
-                                {% render 'responsive-image', image: block.settings.image, wrapper_class: 'w-12 mx-auto' %}
+                            <div class="mt-[18px] block cursor-pointer hover:text-color-subtext" {% if section.settings.image_max_width != blank %} style="width: {{ section.settings.image_max_width }}; margin-left: auto;margin-right: auto;"{% endif %}>
+                                {% render 'responsive-image', image: block.settings.image, wrapper_class: 'mx-auto' %}
                                 <div class="mt-2.5 text-sm not-change">
                                     {{ block.settings.image_text }}
                                 </div>
