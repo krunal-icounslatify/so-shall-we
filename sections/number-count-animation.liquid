@@ -1,0 +1,269 @@
+{%- assign settings = section.settings -%}
+{%- assign blocks = section.blocks -%}
+
+{% assign bg_color = settings.background_color %}
+{% assign has_bg = false %}
+
+{% unless bg_color == "rgba(0,0,0,0)" or bg_color == blank %}
+    {% assign has_bg = true %}
+{% endunless %}
+
+{%- capture container -%}{{ section.settings.container }} {% if has_bg == false %}section-my{% else %}section-py{% endif %}{%- endcapture -%}
+
+{% assign enable_slider = false %}
+{% assign items = 1 %}
+{% if section.blocks.size > 2 and section.settings.enable_slider %}
+    {% assign enable_slider = true %}
+{% endif %}
+
+{% if section.blocks.size > 3 %}
+    {% assign items = 2 %}
+{% endif %}
+
+{% assign columns = 6 %}
+{% if settings.container == 'container' %}
+    {% assign columns = 4 %}
+{% endif %}
+
+{% if section.blocks.size < columns %}
+    {% assign columns = section.blocks.size %}
+{% endif %}
+
+<section
+    id="sf__number-count-animation-{{ section.id }}"
+    class="number-count-animation {{ section.settings.custom_class }}"
+    data-section-type="number-count-animation"
+    data-section-id="{{ section.id }}"
+    data-enable-slider="{{ enable_slider }}"
+    {% if enable_slider %}
+        data-enable-autoplay="{{ section.settings.autorotate }}"
+        data-autoplay-speed="{{ section.settings.autorotate_speed }}"
+        data-items="{{ items }}"
+    {% endif %}
+    {% if has_bg %}
+        data-bg="{{ bg_color | color_to_hsl }}"
+    {% endif %}
+    style="background-color: {{ bg_color }};--items: {{ settings.item_per_row }}; --column-gap: 30px;"
+>
+    <div class="{{ container }}">
+        {% render 'index-section-header', section_settings: section.settings %}
+        <div class="number-count-animation__container">
+            <div class="{% if enable_slider %} swiper-container swiper--equal-height{% endif %}">
+                <div class="{% if enable_slider %}md:grid md:items-center{% else %}grid{% endif %} grid-cols-2 md:grid-cols-{{  section.settings.item_per_row  | minus: 2 }} xl:grid-cols-{{section.settings.item_per_row}}" data-wrapper>
+                    {% for block in blocks %}
+                      <div class="count_box box_hover counter-box">
+                        <h3><span class="timer counter" data-number="{{ block.settings.number_one }}"></span>{{ block.settings.number_second }}</h3>
+                        <h4>{{ block.settings.title }}</h4>
+                      </div>
+                    {% endfor %}
+                </div>
+                {% if enable_slider %}
+                    {% render 'slider-controls', custom_class: 'md:hidden', show_nav: false %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+<style>
+  .number-count-animation__container .count_box{margin: 5px; min-height: 250px; display: flex;justify-content: center;flex-direction: column;padding:50px 20px;text-align:center}
+  .number-count-animation__container .count_box h3{font-size:40px;font-weight:600;color:#222;-webkit-transition:all .5s;-o-transition:all .5s;-ms-transition:all .5s;-moz-transition:all .5s;transition:all .5s}
+  .number-count-animation__container .count_box h4{font-size:15px;font-weight:300;text-transform:uppercase;color:#313131;padding-top:10px;-webkit-transition:all .5s;-o-transition:all .5s;-ms-transition:all .5s;-moz-transition:all .5s;transition:all .5s}
+  .number-count-animation__container .box_center{background:linear-gradient(to bottom right,#002f4b,#dc4225);background-position:center 0;background-size:cover}
+  .number-count-animation__container .box_center h3,.counter_wrapper .box_center h4{color:#fff;-webkit-transition:all .5s;-o-transition:all .5s;-ms-transition:all .5s;-moz-transition:all .5s;transition:all .5s}
+  @media(max-width  :767px){
+    .number-count-animation__container .count_box{min-height: inherit;padding: 25px 15px;margin: 0;}
+  }
+</style>
+
+<script>
+  // Just added bootstrap v4.5 css
+  // You don't need any other library to run this counter
+  // Get the navbar
+  var a = 0;
+  $(window).scroll(function () {
+    var oTop = $(".counter-box").offset().top - window.innerHeight;
+    if (a == 0 && $(window).scrollTop() > oTop) {
+      $(".counter").each(function () {
+        var $this = $(this),
+          countTo = $this.attr("data-number");
+        $({
+          countNum: $this.text(),
+        }).animate(
+          {
+            countNum: countTo,
+          },
+
+          {
+            duration: 3000,
+            easing: "swing",
+            step: function () {
+              //$this.text(Math.ceil(this.countNum));
+              $this.text(Math.ceil(this.countNum).toLocaleString("en"));
+            },
+            complete: function () {
+              $this.text(Math.ceil(this.countNum).toLocaleString("en"));
+              //alert('finished');
+            },
+          }
+        );
+      });
+      a = 1;
+    }
+  });
+
+  
+  
+</script>
+
+{% schema %}
+{
+    "name": "Number count animation",
+    "settings": [
+       {
+            "type": "header",
+            "content": "Section header"
+        },
+        {
+            "type":"text",
+            "id":"heading",
+            "label":"Heading",
+            "default": "Brand list"
+        },
+        {
+            "type": "text",
+            "id": "subheading",
+            "label": "Subheading"
+        },
+        {
+            "type": "select",
+            "id": "header_alignment",
+            "label": "Text alignment",
+            "default": "center",
+            "options": [
+                {
+                    "value": "left",
+                    "label": "Left"
+                },
+                {
+                    "value": "center",
+                    "label": "Center"
+                }
+            ]
+        },
+        {
+            "type": "header",
+            "content": "General"
+        },
+        {
+            "type": "select",
+            "id": "container",
+            "label": "Container type",
+            "default": "container-fluid",
+            "options": [
+                {
+                    "value": "container-fluid",
+                    "label": "Default"
+                },
+                {
+                    "value": "w-full",
+                    "label": "Full width"
+                },
+                {
+                    "value": "container",
+                    "label": "Use container box"
+                }
+            ]
+        },
+        {
+            "type": "color",
+            "id": "background_color",
+            "label": "Background color",
+            "default": "rgba(0,0,0,0)"
+        },
+        {
+            "type": "range",
+            "id": "item_per_row",
+            "label": "Images per row",
+            "min": 2,
+            "max": 8,
+            "step": 1,
+            "default": 4
+        },
+        {
+          "type": "header",
+          "content": "Mobile settings"
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_slider",
+          "label": "Enable slider",
+          "default": true,
+          "info": "Must be greater than 2 images"
+        },
+        {
+            "type": "checkbox",
+            "id": "autorotate",
+            "label": {"en": "Auto-rotate slides"},
+            "default": true
+        },
+        {
+            "type": "range",
+            "id": "autorotate_speed",
+            "label": {"en": "Change slides every"},
+            "max": 10,
+            "min": 2,
+            "step": 1,
+            "unit": "s",
+            "default": 3
+        },
+        {
+            "type": "text",
+            "id": "custom_class",
+            "label": "Custom classes"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "image",
+            "name": "Content",
+            "settings": [
+                {
+                    "type": "text",
+                    "id": "number_one",
+                    "label": "Number"
+                },
+				{
+                    "type": "text",
+                    "id": "number_second",
+                    "label": "Number"
+                },
+				{	
+                    "type": "text",
+                    "id": "title",
+                    "label": "Title"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Number count animation",
+            "category": "Image",
+            "blocks": [
+                {
+                    "type": "image"
+                },
+                {
+                    "type": "image"
+                },
+                {
+                    "type": "image"
+                },
+                {
+                    "type": "image"
+                }
+            ]
+        }
+    ]
+}
+{% endschema %}

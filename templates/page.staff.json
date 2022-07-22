@@ -1,0 +1,238 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16582808835e1a488f": {
+      "type": "image-with-text-2",
+      "settings": {
+        "container": "w-full",
+        "hero_size": "small",
+        "show_overlay": true,
+        "bg_position": "center",
+        "image_link": "",
+        "parallax": false,
+        "content_in_container": false,
+        "content_position": "center middle",
+        "text_alignment": "center",
+        "text_size": "large",
+        "text_color": "white",
+        "title": "Your world-class team",
+        "subtitle": "",
+        "text": "<p>Our team has worked in-house at the world's biggest brands, have worked in start-ups and eveything between. The team you see here, will be the team that will be working on your business. Imagine the impact that this team could have on your business. <\/p>",
+        "button_label": "Contact us",
+        "button_link": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "use_content_above": false,
+        "custom_class": ""
+      }
+    },
+    "1657885577cf21a314": {
+      "type": "custom-content",
+      "blocks": {
+        "1657885576d62d4fe9-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_6ac5de7cb46240aaa825c5b32.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "order-1"
+          }
+        },
+        "1657885576d62d4fe9-0": {
+          "type": "text",
+          "settings": {
+            "title": "SAM RIX",
+            "subheading": "Co-Founder & Managing Director",
+            "text": "<p>With over 9 years’ experience in client-side and agency management, Sam has developed advanced skills in brand development, events, digital marketing strategy & execution, data and insights, CX, customer lifecycle management, sales strategy and alignment, digital product development and digital transformation. <\/p><p>​<\/p><p>He has worked across a number of well-known brands in the digital marketing space. These include FOX SPORTS, Uber, Amazon, National Geographic, AFL, NRL, BBC, My Muscle Chef, Steve Madden, Schneider Electric, Cricket Australia, Virgin Australia, MTV, Hyundai A-League, Supercars, Formula One, Clipsal, Bankwest, Australian Government, Taylors Wines, Netflix, Reece, Nickelodeon, Foxtel and many more.<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": "order-2"
+          }
+        },
+        "b5c8ca8d-ccca-4e07-918a-d90a725f65eb": {
+          "type": "text",
+          "settings": {
+            "title": "SAM BRATBY",
+            "subheading": "Creative Director | Film & Photo",
+            "text": "<p>Videographer, Designer, Cinematographer, Photographer, Editor and Director. Sam bursts with creativity in every aspect of life. <\/p><p><\/p><p>He has produced content for some of Australia's biggest brands including FOX SPORTS, Universal Music and Clipsal whilst also working with some of the brightest talents across the Influencer, Sport and Music realms.<\/p><p><br\/><\/p><p>He understands Digital Marketing and builds his content for purpose.<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": "order-4"
+          }
+        },
+        "288adf2f-757e-40e5-aea8-fd117a236fcb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_1b4d2fa30f514508be1b3bfc9.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "order-3"
+          }
+        },
+        "3b821f1f-fae8-4bf8-a007-ca48a1eb4be5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_5c294fa34a784693a680921ab.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "order-5"
+          }
+        },
+        "41138e86-abf0-4565-8ff9-7bdb85e3fd83": {
+          "type": "text",
+          "settings": {
+            "title": "JOANNA BRESSON",
+            "subheading": "Social Director",
+            "text": "<p>The So Shall We Social Guru - Joanna is an experienced Account Manager specialising in Media Planning, Analytics, Social Media Advertising and Media Buying.<\/p><p>Her experience spans across a variety of different industries and businesses including My Muscle Chef, Paramount Pictures and ZAGG International.<\/p><p><\/p><p>She understands that brand + mathematics = success!<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": "order-6"
+          }
+        },
+        "a36788c5-e0a2-4cdf-8370-7710d3000632": {
+          "type": "text",
+          "settings": {
+            "title": "ELLIE WILKINSON",
+            "subheading": "Senior Graphic Designer",
+            "text": "<p>Ellie is a creatively driven digital designer with vast experience in social media marketing and the advertising industry. <\/p><p><br\/><\/p><p>Specialising in illustration, graphic design and 2D animation, Ellie has had the opportunity to construct quirky designs for a variety of Australia’s iconic brands including El Jannah, My Muscle Chef, Uber and Steve Madden.<\/p><p>​<\/p><p>Famous for content that jumps off your mobile phone and computer screens!<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": "order-8"
+          }
+        },
+        "e4f120aa-906d-44db-9c0f-96bca76ab490": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_5171bf179606484e86a8fd472.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "order-7"
+          }
+        },
+        "354af07a-6d9c-4e23-ba79-d0bd254942c0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_7d10c675efa049e6b1450fcd8.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "order-9"
+          }
+        },
+        "49962462-537c-4506-9813-e27a5974d434": {
+          "type": "text",
+          "settings": {
+            "title": "ISABEL SANDERCOCK-BROWN",
+            "subheading": "SEO and Blog Expert - The So Shall We Wordsmith",
+            "text": "<p>Bel started her career writing feminist-inspired articles for her dad.<\/p><p> <\/p><p>That wasn’t as lucrative as it sounds – so she got a Bachelor of Communications in Creative Writing and a job at Madison magazine. When everything started going online, she did too.<\/p><p> <\/p><p>Since then, she’s worked with a range of businesses – including Channel 7, The Salvation Army, <a href=\"http:\/\/finder.com.au\/\" target=\"_blank\"><span style=\"text-decoration:underline\">Finder.com.au<\/span><\/a> and Clipsal – creating effective digital content. <\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": "order-10"
+          }
+        },
+        "3794fb1c-192f-4747-9bd6-615c453cbbe9": {
+          "type": "text",
+          "settings": {
+            "title": "TAYLOR WRIGHT",
+            "subheading": "Social Director",
+            "text": "<p>Taylor has over 7+ years of experience working across digital advertising with a focus in social media, content, influencer marketing, and media buying.<\/p><p> <\/p><p>She has worked on both client and agency side managing brands which include Expedia Group, Tourism Japan, Starwood Hotels, Adidas, and Coles. She believes that data-infused creativity drives rich experiences made for real people.<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": "order-12"
+          }
+        },
+        "6ce9e9a2-aa22-4607-ab44-ab04709e7d60": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_99f3cfccf6454c5ea6e7947d5.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "order-11"
+          }
+        }
+      },
+      "block_order": [
+        "1657885576d62d4fe9-1",
+        "1657885576d62d4fe9-0",
+        "b5c8ca8d-ccca-4e07-918a-d90a725f65eb",
+        "288adf2f-757e-40e5-aea8-fd117a236fcb",
+        "3b821f1f-fae8-4bf8-a007-ca48a1eb4be5",
+        "41138e86-abf0-4565-8ff9-7bdb85e3fd83",
+        "a36788c5-e0a2-4cdf-8370-7710d3000632",
+        "e4f120aa-906d-44db-9c0f-96bca76ab490",
+        "354af07a-6d9c-4e23-ba79-d0bd254942c0",
+        "49962462-537c-4506-9813-e27a5974d434",
+        "3794fb1c-192f-4747-9bd6-615c453cbbe9",
+        "6ce9e9a2-aa22-4607-ab44-ab04709e7d60"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "#f0f0f0",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16582808835e1a488f",
+    "1657885577cf21a314"
+  ]
+}

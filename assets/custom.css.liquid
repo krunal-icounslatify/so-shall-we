@@ -1,0 +1,162 @@
+{% comment %}
+  All custom CSS in this file will be kept when updating the theme
+  Write your custom CSS below
+{% endcomment %}
+
+.page-staff .sf-custom__block{
+  padding: 0;
+}
+.page-staff .sf-custom__block-inner .text-center{
+  padding: 25px 
+}
+.number-counter__container .counter-block{
+  text-align:center;
+  min-height : 250px;
+  box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.8);
+  -webkit-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.8);
+  -moz-box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.8);
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 15px;
+}
+.number-counter__container .content{
+  display : block;
+}
+
+/* style banner start */
+.banner-block-wrapper .sf-image img {
+	position: static !important;
+}
+.banner-block-wrapper [style*="--aspect-ratio"]:before{
+	padding : 0 !important;
+}
+.banner-block-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.banner-block-wrapper .banner-images{
+  width: 30%;
+  position: relative;
+}
+.banner-block-wrapper .banner-images .sf__slide-image-box-image{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 50%;
+}
+.banner-block-wrapper .banner-content{
+  width: 70%;
+}
+.banner-block-wrapper .banner-images .laptop-image{
+  transform: translateY(-50%);
+  top: 50%;
+  width: 100%;
+}
+.banner-block-wrapper .banner-images .box-image{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: -17px;
+  width: 81%;
+  left: 50%;
+  border-top-left-radius: 20px;  border-top-left-radius: 15px;
+  overflow: hidden;
+  border-top-right-radius: 20px;
+}
+.sf-slider__controls--absolute button.sf-slider__controls-next{
+	right : 0
+}
+.sf-slider__controls--absolute button.sf-slider__controls-prev{
+	left : 0
+}
+.number-count-animation .section__header{
+  margin:0;
+}
+@media(max-width : 767px){
+  .banner-block-wrapper{
+  	flex-direction: column;
+  }
+  .banner-block-wrapper .banner-images,
+  .banner-block-wrapper .banner-content{
+  	width : 100%;
+  }
+  .banner-block-wrapper .banner-images .sf__slide-image-box-image{
+  	transform: translate(-50%);
+    bottom: -28%;
+    top: auto;
+    left: 50%;
+    width: 75%;
+  }
+  .banner-block-wrapper .banner-content{
+  	padding-top  : 60px;
+  }
+  .banner-block-wrapper .banner-images .box-image{
+  	top : -8px;
+    width : 81.5%;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+  }
+  .page-staff .sf-custom__block.order-1{
+      order : 0;
+  }
+  .page-staff .sf-custom__block.order-2{
+      order : 1;
+  }
+  .page-staff .sf-custom__block.order-3{
+      order : 2;
+  }
+  .page-staff .sf-custom__block.order-4{
+      order : 3;
+  }
+  .page-staff .sf-custom__block.order-5{
+      order : 4;
+  }
+  .page-staff .sf-custom__block.order-6{
+      order : 5;
+  }
+  .page-staff .sf-custom__block.order-7{
+      order : 6;
+  }
+  .page-staff .sf-custom__block.order-8{
+      order : 7;
+  }
+  .page-staff .sf-custom__block.order-9{
+      order : 8;
+  }
+  .page-staff .sf-custom__block.order-10{
+      order : 9;
+  }
+  .page-staff .sf-custom__block.order-11{
+      order : 10;
+  }
+  .page-staff .sf-custom__block.order-12{
+      order : 11;
+  }
+  .banner-block-wrapper .sf-image img{
+  	max-height : 400px !important;
+  }
+  .our-services-wrapper .h4 {
+  	font-size: 20px;
+  }
+  .our-services-wrapper .sf-icon-box{
+    border-radius: 5px;
+    padding-bottom: 1.25rem;
+    border: 1px solid #dedede;
+  }
+  .number-count-animation__container .count_box h3{
+  	font-size : 22px !important;
+  }
+  .number-count-animation__container .grid{
+  	align-items: baseline;
+  }
+  .our-team-wrapper .sf-icon-box__text{
+  	text-align : center;
+  }
+  .sf-slider__controls--absolute button.sf-slider__controls-next,
+  .sf-slider__controls--absolute button.sf-slider__controls-prev{
+    left : 0;
+    display : none;
+  }
+}
+/* Style banner end */

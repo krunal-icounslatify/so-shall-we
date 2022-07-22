@@ -1,0 +1,179 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16579761558e612780": {
+      "type": "banner-with-slider",
+      "disabled": true,
+      "blocks": {
+        "16579761545239446d-0": {
+          "type": "item_slide",
+          "settings": {
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleevesrvgrvvrvr",
+            "description": "",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16579761545239446d-1": {
+          "type": "item_slide",
+          "settings": {
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleeves",
+            "description": "",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16579761545239446d-2": {
+          "type": "item_slide",
+          "settings": {
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleeves",
+            "description": "",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "16579761545239446d-0",
+        "16579761545239446d-1",
+        "16579761545239446d-2"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "slide_autoplay": false,
+        "autorotate_speed": 5,
+        "button_text_1": "Shop Now",
+        "button_link_1": "",
+        "button_style_1": "sf__btn-white",
+        "button_size_1": "",
+        "button_text_2": "Shop Now",
+        "button_link_2": "",
+        "button_style_2": "sf__btn-white",
+        "button_size_2": "",
+        "button_text_3": "Shop Now",
+        "button_link_3": "",
+        "button_style_3": "sf__btn-white",
+        "button_size_3": "",
+        "custom_class": ""
+      }
+    },
+    "16582266719035500e": {
+      "type": "custom-content",
+      "blocks": {
+        "1658226671cf4e2aef-0": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "subheading": "<b>Talk about your brand Talk about your brand Talk about your brand<\/b>",
+            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p><p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "1658226671cf4e2aef-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_99f3cfccf6454c5ea6e7947d598f41c6_mv2.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "1a825d58-26c7-4b4a-bf07-28e93fc51c09": {
+          "type": "text",
+          "settings": {
+            "title": "Talk about your brand",
+            "subheading": "",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "623958ad-48e9-4e0d-8737-64bbc469dc54": {
+          "type": "text",
+          "settings": {
+            "title": "<br>Talk about your brand",
+            "subheading": "",
+            "text": "<p>We will need some long-copy URL’s that explains our services and highlights some of the work that we have done. This design of text and imagery works well.<\/p><p>We will need some long-copy URL’s that explains our services and highlights some of the work that we have done. This design of text and imagery works well.<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658226671cf4e2aef-0",
+        "1658226671cf4e2aef-1",
+        "1a825d58-26c7-4b4a-bf07-28e93fc51c09",
+        "623958ad-48e9-4e0d-8737-64bbc469dc54"
+      ],
+      "settings": {
+        "heading": "Talk about your brand Talk about your brand Talk about your brand ?",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16579761558e612780",
+    "16582266719035500e"
+  ]
+}
