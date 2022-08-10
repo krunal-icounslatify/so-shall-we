@@ -1,0 +1,490 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16579761558e612780": {
+      "type": "banner-with-slider",
+      "disabled": true,
+      "blocks": {
+        "16579761545239446d-0": {
+          "type": "item_slide",
+          "settings": {
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleevesrvgrvvrvr",
+            "description": "",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16579761545239446d-1": {
+          "type": "item_slide",
+          "settings": {
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleeves",
+            "description": "",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16579761545239446d-2": {
+          "type": "item_slide",
+          "settings": {
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleeves",
+            "description": "",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "16579761545239446d-0",
+        "16579761545239446d-1",
+        "16579761545239446d-2"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "slide_autoplay": false,
+        "autorotate_speed": 5,
+        "button_text_1": "Shop Now",
+        "button_link_1": "",
+        "button_style_1": "sf__btn-white",
+        "button_size_1": "",
+        "button_text_2": "Shop Now",
+        "button_link_2": "",
+        "button_style_2": "sf__btn-white",
+        "button_size_2": "",
+        "button_text_3": "Shop Now",
+        "button_link_3": "",
+        "button_style_3": "sf__btn-white",
+        "button_size_3": "",
+        "custom_class": ""
+      }
+    },
+    "16582266719035500e": {
+      "type": "custom-content",
+      "blocks": {
+        "1658226671cf4e2aef-0": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "subheading": "<b>Talk about your brand Talk about your brand Talk about your brand<\/b>",
+            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "1658226671cf4e2aef-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_99f3cfccf6454c5ea6e7947d598f41c6_mv2.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "1a825d58-26c7-4b4a-bf07-28e93fc51c09": {
+          "type": "text",
+          "settings": {
+            "title": "Talk about your brand",
+            "subheading": "",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "623958ad-48e9-4e0d-8737-64bbc469dc54": {
+          "type": "text",
+          "settings": {
+            "title": "<br>Talk about your brand",
+            "subheading": "",
+            "text": "<p>We will need some long-copy URL’s that explains our services and highlights some of the work that we have done. This design of text and imagery works well.<\/p><p>We will need some long-copy URL’s that explains our services and highlights some of the work that we have done. This design of text and imagery works well.<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658226671cf4e2aef-0",
+        "1658226671cf4e2aef-1",
+        "1a825d58-26c7-4b4a-bf07-28e93fc51c09",
+        "623958ad-48e9-4e0d-8737-64bbc469dc54"
+      ],
+      "settings": {
+        "heading": "Talk about your brand Talk about your brand Talk about your brand ?",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "custom_class": ""
+      }
+    },
+    "16584654837149b560": {
+      "type": "image-with-text-1",
+      "blocks": {
+        "165846548339c124b0-0": {
+          "type": "item",
+          "settings": {
+            "content_position": "top_left",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "image": "shopify:\/\/shop_images\/Untitled_1334_x_750_px.png",
+            "link": "",
+            "title": "Product photography",
+            "subtitle": "",
+            "button_label": "Shop now",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "165846548339c124b0-1": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop now",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "165846548339c124b0-2": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop now",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "165846548339c124b0-3": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop now",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "165846548339c124b0-4": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop now",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "165846548339c124b0-0",
+        "165846548339c124b0-1",
+        "165846548339c124b0-2",
+        "165846548339c124b0-3",
+        "165846548339c124b0-4"
+      ],
+      "settings": {
+        "heading": "Featured collection",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "layout": "layout_1",
+        "gap": 30,
+        "use_scroll_mobile": true,
+        "mobile_gap": 10,
+        "custom_class": ""
+      }
+    },
+    "1658465539b2908716": {
+      "type": "lookbook",
+      "blocks": {
+        "165846553973208ebd-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_1334_x_750_px.png",
+            "button_text": "Shop this collection",
+            "button_link": "",
+            "button_style": "dark",
+            "top_1": 9,
+            "left_1": 63,
+            "product_1": "",
+            "top_2": 26,
+            "left_2": 50,
+            "product_2": "",
+            "top_3": 61,
+            "left_3": 48,
+            "product_3": "",
+            "top_4": 0,
+            "left_4": 0,
+            "product_4": "",
+            "top_5": 20,
+            "left_5": 0,
+            "product_5": ""
+          }
+        },
+        "165846553973208ebd-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_c158ca90-70bb-4084-91fe-ded10c1a0e0e.png",
+            "button_text": "Shop this collection",
+            "button_link": "",
+            "button_style": "dark",
+            "top_1": 9,
+            "left_1": 63,
+            "product_1": "",
+            "top_2": 26,
+            "left_2": 50,
+            "product_2": "",
+            "top_3": 61,
+            "left_3": 48,
+            "product_3": "",
+            "top_4": 0,
+            "left_4": 0,
+            "product_4": "",
+            "top_5": 20,
+            "left_5": 0,
+            "product_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "165846553973208ebd-0",
+        "165846553973208ebd-1"
+      ],
+      "settings": {
+        "heading": "Hand-picked",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "image_aspect_ratio": "3\/4",
+        "custom_class": ""
+      }
+    },
+    "1658465665c024cfdf": {
+      "type": "icon-box",
+      "blocks": {
+        "1658465665d96e344a-0": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "1658465665d96e344a-1": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "100% Safe & Secure Checkout",
+            "description": "<p>Tell about your service.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "1658465665d96e344a-2": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "24\/7 online support",
+            "description": "<p>Tell about your service.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "672c95e9-0d41-41b3-8683-59060bf679d2": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "This is heading text",
+            "description": "<p>Tell about your service.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "483a8672-3615-41ed-86da-de03da3ffdbe": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "This is heading text",
+            "description": "<p>Tell about your service.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "6f2ff4bd-ec7f-4345-983c-a24980451bdf": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "This is heading text",
+            "description": "<p>Tell about your service.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "2e861db8-0c16-4580-8906-2a9894cc8038": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "This is heading text",
+            "description": "<p>Tell about your service.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "7c25219e-da5f-4940-9f9a-c97a9d69e93b": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "",
+            "title": "This is heading text",
+            "description": "<p>Tell about your service.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658465665d96e344a-0",
+        "1658465665d96e344a-1",
+        "1658465665d96e344a-2",
+        "672c95e9-0d41-41b3-8683-59060bf679d2",
+        "483a8672-3615-41ed-86da-de03da3ffdbe",
+        "6f2ff4bd-ec7f-4345-983c-a24980451bdf",
+        "2e861db8-0c16-4580-8906-2a9894cc8038",
+        "7c25219e-da5f-4940-9f9a-c97a9d69e93b"
+      ],
+      "settings": {
+        "heading": "Designed for Your Comfort",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "item_per_row": 3,
+        "item_gap": 30,
+        "item_gap_mobile": 10,
+        "card_style": "vertical",
+        "image_max_width": "500px",
+        "content_alignment": "center",
+        "hover_effect": "zoom-in",
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "use_scroll_mobile": true,
+        "use_grid_column_mb": false,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16579761558e612780",
+    "16582266719035500e",
+    "16584654837149b560",
+    "1658465539b2908716",
+    "1658465665c024cfdf"
+  ]
+}
