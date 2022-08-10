@@ -14,11 +14,11 @@
             "text_alignment": "left",
             "text_size": "large",
             "text_color": "black",
-            "subheading": "<span class=\"font-semibold\">Results driven digital marketing <\/span>",
+            "subheading": "<span class=\"font-semibold\">Digital Marketing Specialists Who Simply Drive Results.<\/span>",
             "title": "<span class=\"sf__font-normal\">So Shall We?<\/span>",
             "description": "",
             "image_link": "",
-            "button_text": "Get in touch",
+            "button_text": "Contact Us",
             "button_link": "",
             "button_style": "sf__btn-secondary",
             "button_size": "",
@@ -108,7 +108,7 @@
         "1658226542955f08a6-0": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/images.jpg",
+            "image": "shopify:\/\/shop_images\/Zoom-Logo.png",
             "image_by_url": "",
             "title": "",
             "description": "",
@@ -122,7 +122,7 @@
         "1658226542955f08a6-1": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/images.jpg",
+            "image": "shopify:\/\/shop_images\/UNSW_Logo.png",
             "image_by_url": "",
             "title": "",
             "description": "",
@@ -136,7 +136,7 @@
         "1658226542955f08a6-2": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/images.jpg",
+            "image": "shopify:\/\/shop_images\/Vera_Logo_-_Remake_Standard.png",
             "image_by_url": "",
             "title": "",
             "description": "",
@@ -150,7 +150,7 @@
         "c4bd1516-c2f7-405d-b335-01f89f394c51": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/images.jpg",
+            "image": "shopify:\/\/shop_images\/Work_Inc_Black_Blue.png",
             "image_by_url": "",
             "title": "",
             "description": "",
@@ -164,7 +164,273 @@
         "1d8db26b-efe5-46d1-b8ce-b7273f6ef38b": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/images.jpg",
+            "image": "shopify:\/\/shop_images\/Hungry_Panda_Logo.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "c102dc6c-4f00-4c29-9bb5-a4467d53a480": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sydney_Olympic_Park_0.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "08dbba96-c09a-47c6-a6a5-77abf5e26218": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SK_-_Logo_-_Stacked.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "7f8adb8f-8ea3-4474-b331-7dd557923564": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/news_corp_logo-edited.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "48d79da3-64c8-43bf-80d1-1ccd14f72f00": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RugbyWA_Black_on_Black.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "8659e998-521b-423e-b671-b0f86d82cd8d": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SC_Logo.jpg",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "ec014e19-452d-470b-8742-23f2d6a5d9b1": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Prodriver_logo.webp",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "12701de7-293a-4363-a28f-6cb5295af0a1": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mellen_Events_Logo.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "c966fc29-b6a5-4a3a-a3cf-114985066954": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NDARC_logo.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "9662c9da-08fb-4a81-acc8-03c30e77f84f": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EFM-Logo-Primary.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "dbdbba28-09e9-489b-8f72-d1fb339fbf5a": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Advertiser.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "96d07f76-f7f2-43d1-a284-35b14c38cad6": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/609ec802a7e06140ce9953b9_CardoneVentures-Horizontal-Logo.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "31168bc4-361b-4998-91fa-495d97efd5b1": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Code_Logo.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "09ecd175-fbf3-4a86-810b-62980eb3843d": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AP_Logo.jpg",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "ece03a25-d76f-457a-972d-a46ffa7ae6d2": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bae_Juice_Logo_FA.webp",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "e942c2ef-ed49-44d3-9dac-75e91f8f6cb0": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6650.1500683357.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "45c54859-2ea3-4d15-84c4-49d42e76608a": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/daily-telegraph.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "addfab2e-3cd1-41f1-aede-7faadef9fdd4": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EASI_Logo.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "64ca1646-8ff6-4e47-bcbc-be2e956f6873": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CM_Logo.png",
+            "image_by_url": "",
+            "title": "",
+            "description": "",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "c0642474-4a9d-4583-a1f5-c11803f8c2b7": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SR_Logo.png",
             "image_by_url": "",
             "title": "",
             "description": "",
@@ -181,7 +447,26 @@
         "1658226542955f08a6-1",
         "1658226542955f08a6-2",
         "c4bd1516-c2f7-405d-b335-01f89f394c51",
-        "1d8db26b-efe5-46d1-b8ce-b7273f6ef38b"
+        "1d8db26b-efe5-46d1-b8ce-b7273f6ef38b",
+        "c102dc6c-4f00-4c29-9bb5-a4467d53a480",
+        "08dbba96-c09a-47c6-a6a5-77abf5e26218",
+        "7f8adb8f-8ea3-4474-b331-7dd557923564",
+        "48d79da3-64c8-43bf-80d1-1ccd14f72f00",
+        "8659e998-521b-423e-b671-b0f86d82cd8d",
+        "ec014e19-452d-470b-8742-23f2d6a5d9b1",
+        "12701de7-293a-4363-a28f-6cb5295af0a1",
+        "c966fc29-b6a5-4a3a-a3cf-114985066954",
+        "9662c9da-08fb-4a81-acc8-03c30e77f84f",
+        "dbdbba28-09e9-489b-8f72-d1fb339fbf5a",
+        "96d07f76-f7f2-43d1-a284-35b14c38cad6",
+        "31168bc4-361b-4998-91fa-495d97efd5b1",
+        "09ecd175-fbf3-4a86-810b-62980eb3843d",
+        "ece03a25-d76f-457a-972d-a46ffa7ae6d2",
+        "e942c2ef-ed49-44d3-9dac-75e91f8f6cb0",
+        "45c54859-2ea3-4d15-84c4-49d42e76608a",
+        "addfab2e-3cd1-41f1-aede-7faadef9fdd4",
+        "64ca1646-8ff6-4e47-bcbc-be2e956f6873",
+        "c0642474-4a9d-4583-a1f5-c11803f8c2b7"
       ],
       "settings": {
         "heading": "Our clients",
@@ -194,15 +479,15 @@
         "item_gap": 30,
         "item_gap_mobile": 10,
         "card_style": "vertical",
-        "image_max_width": "100%",
+        "image_max_width": "150px",
         "content_alignment": "center",
         "hover_effect": "zoom-in",
         "enable_slider": true,
-        "show_pagination": true,
+        "show_pagination": false,
         "show_navigation": true,
         "use_scroll_mobile": true,
         "use_grid_column_mb": false,
-        "custom_class": "arrow-visibility"
+        "custom_class": "arrow-visibility our-clients-wrapper"
       }
     },
     "1658119613013f9b6b": {
@@ -570,6 +855,62 @@
             "button_style": "sf__btn-link",
             "button_size": ""
           }
+        },
+        "b72e2106-8730-4c78-b1df-7f8ba32ee91d": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Charlie_a38f951f-33ff-4436-bf3f-1cc2e46bf43a.png",
+            "image_by_url": "",
+            "title": "Charlie Smith",
+            "description": "<p>Account Director<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "7a57b705-2ef3-4cd9-84e4-b1462cfe2387": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Erika_0a909761-0b6c-42df-a08e-90f8e295d7c4.jpg",
+            "image_by_url": "",
+            "title": "Erika Munoz",
+            "description": "<p>Performance Marketer<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "af71b915-0093-4b4a-bc11-5fb353c59886": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lina_01de52b5-6ad1-4af9-968d-00a31834667d.jpg",
+            "image_by_url": "",
+            "title": "Lina Munoz",
+            "description": "<p>Social Media Manager<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "35369292-aeae-439a-9ecc-42f483890229": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tom_Wholohan_75eb1da9-be2f-4333-834b-9be3c05de232.png",
+            "image_by_url": "",
+            "title": "Tom Wholohan",
+            "description": "<p>Photographer<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
         }
       },
       "block_order": [
@@ -578,7 +919,11 @@
         "16225125199f82d8fe-2",
         "86f40487-7436-4cee-bd9b-183d7d629abf",
         "a9e2998f-16ce-45e1-a6fd-a535d28ca4e5",
-        "a96e46d4-6981-4300-a2ab-f08be436e75d"
+        "a96e46d4-6981-4300-a2ab-f08be436e75d",
+        "b72e2106-8730-4c78-b1df-7f8ba32ee91d",
+        "7a57b705-2ef3-4cd9-84e4-b1462cfe2387",
+        "af71b915-0093-4b4a-bc11-5fb353c59886",
+        "35369292-aeae-439a-9ecc-42f483890229"
       ],
       "settings": {
         "heading": "Our Team",

@@ -103,7 +103,7 @@
         "enable_slider": false,
         "show_pagination": false,
         "show_navigation": false,
-        "use_scroll_mobile": true,
+        "use_scroll_mobile": false,
         "use_grid_column_mb": false,
         "custom_class": ""
       }
