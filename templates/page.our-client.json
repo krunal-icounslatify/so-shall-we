@@ -3,9 +3,111 @@
     "main": {
       "type": "page",
       "settings": {}
+    },
+    "1658486202871aeeec": {
+      "type": "testimonials",
+      "blocks": {
+        "1658486202849e553b-0": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image": "shopify:\/\/shop_images\/1_c158ca90-70bb-4084-91fe-ded10c1a0e0e.png",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "1658486202849e553b-1": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image": "shopify:\/\/shop_images\/2.png",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "1658486202849e553b-2": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "1658486202849e553b-3": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image": "shopify:\/\/shop_images\/412c23_5171bf179606484e86a8fd472f7a1095_mv2.png",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "1658486202849e553b-4": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image": "shopify:\/\/shop_images\/412c23_7d10c675efa049e6b1450fcd87d1a624_mv2.png",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        },
+        "1658486202849e553b-5": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Love it so much",
+            "description": "<p>\"Short dress in a printed viscose weave with a round neckline, opening with a button at the back of the Seams with small frill trims at the waist and on the sleeves and skirt. Unlined.\"<\/p>",
+            "footer": "<p>Dean D. US<\/p>",
+            "image": "shopify:\/\/shop_images\/412c23_5c294fa34a784693a680921abe8fcabc_mv2.png",
+            "image_text": "",
+            "image_link": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658486202849e553b-0",
+        "1658486202849e553b-1",
+        "1658486202849e553b-2",
+        "1658486202849e553b-3",
+        "1658486202849e553b-4",
+        "1658486202849e553b-5"
+      ],
+      "settings": {
+        "heading": "What People Are Saying",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "design": "testimonials-5",
+        "image_max_width": "70px",
+        "show_stars": true,
+        "autorotate": false,
+        "show_navigation": false,
+        "show_pagination": true,
+        "star_color": "#000",
+        "custom_class": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1658486202871aeeec"
   ]
 }

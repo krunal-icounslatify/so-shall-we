@@ -7,19 +7,19 @@
           "type": "categories",
           "settings": {
             "title": "Categories",
-            "list_blog": "collections"
+            "list_blog": "main-menu"
           }
         },
         "bb3e6ad7-c917-47d9-9bce-5edf5ff286f6": {
           "type": "recent_post",
           "settings": {
             "title": "Recent Post",
-            "sidebar_recent_blog_name": "mix-and-match",
+            "sidebar_recent_blog_name": "news",
             "sidebar_recent_blog_count": "3",
             "blog_show_tags": true,
-            "blog_show_author": false,
-            "blog_show_date": false,
-            "show_excerpt": false,
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_excerpt": true,
             "truncate_excerpt": false,
             "truncate": "15",
             "truncate_last_symbols": "..."
@@ -35,7 +35,7 @@
           "type": "instagram",
           "settings": {
             "title": "Instagram",
-            "images_count": 6
+            "images_count": 9
           }
         }
       },
@@ -50,6 +50,7 @@
         "sidebar_show": true,
         "sidebar_position": "right_column",
         "design": "layout1",
+        "blog_show_breadcrumb": false,
         "blog_show_author": true,
         "blog_show_date": true,
         "blog_show_tags": true,

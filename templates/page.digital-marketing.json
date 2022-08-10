@@ -162,7 +162,7 @@
         "subheading": "",
         "description": "",
         "header_alignment": "center",
-        "container": "container-fluid",
+        "container": "container",
         "background_color": "",
         "gap": 30,
         "use_scroll_mobile": false,

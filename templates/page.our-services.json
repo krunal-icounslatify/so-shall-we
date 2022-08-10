@@ -2,10 +2,115 @@
   "sections": {
     "main": {
       "type": "page",
+      "disabled": true,
       "settings": {}
+    },
+    "1658487971bd4a790f": {
+      "type": "icon-box",
+      "blocks": {
+        "1658487971679ac0a5-0": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
+            "image_by_url": "",
+            "title": "Digital Marketing Advertising",
+            "description": "",
+            "link": "shopify:\/\/pages\/our-client",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "1658487971679ac0a5-1": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_c158ca90-70bb-4084-91fe-ded10c1a0e0e.png",
+            "image_by_url": "",
+            "title": "Digital Marketing Strategy",
+            "description": "",
+            "link": "shopify:\/\/pages\/digital-marketing-advertising",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "1658487971679ac0a5-2": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "image_by_url": "",
+            "title": "Videography",
+            "description": "",
+            "link": "shopify:\/\/pages\/graphic-design",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "42cac410-681e-40f5-a7d4-1196b641f4ca": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_7d10c675efa049e6b1450fcd87d1a624_mv2.png",
+            "image_by_url": "",
+            "title": "Graphic Design",
+            "description": "",
+            "link": "shopify:\/\/pages\/graphic-design",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "131be924-d07e-47ff-9f32-13846491bf44": {
+          "type": "iconbox",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/412c23_5171bf179606484e86a8fd472f7a1095_mv2.png",
+            "image_by_url": "",
+            "title": "Photography",
+            "description": "",
+            "link": "shopify:\/\/pages\/photography",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658487971679ac0a5-0",
+        "1658487971679ac0a5-1",
+        "1658487971679ac0a5-2",
+        "42cac410-681e-40f5-a7d4-1196b641f4ca",
+        "131be924-d07e-47ff-9f32-13846491bf44"
+      ],
+      "settings": {
+        "heading": "Designed for Your Comfort",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "rgba(0,0,0,0)",
+        "item_per_row": 3,
+        "item_gap": 30,
+        "item_gap_mobile": 10,
+        "card_style": "vertical",
+        "image_max_width": "",
+        "content_alignment": "center",
+        "hover_effect": "zoom-in",
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "use_scroll_mobile": true,
+        "use_grid_column_mb": false,
+        "custom_class": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1658487971bd4a790f"
   ]
 }
