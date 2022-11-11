@@ -496,7 +496,7 @@
         "16581196136d18df70-0": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
+            "image": "shopify:\/\/shop_images\/1-16.png",
             "image_by_url": "",
             "title": "Digital Marketing Advertising",
             "description": "",
@@ -510,7 +510,7 @@
         "16581196136d18df70-1": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/15.png",
             "image_by_url": "",
             "title": "Digital Marketing Strategy",
             "description": "",
@@ -524,7 +524,7 @@
         "16581196136d18df70-2": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
+            "image": "shopify:\/\/shop_images\/19.png",
             "image_by_url": "",
             "title": "Videography",
             "description": "",
@@ -538,7 +538,7 @@
         "06722a45-b2e7-41d2-a989-ba39083b469c": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_c158ca90-70bb-4084-91fe-ded10c1a0e0e.png",
+            "image": "shopify:\/\/shop_images\/1-18.png",
             "image_by_url": "",
             "title": "Graphic Design",
             "description": "",
@@ -552,7 +552,7 @@
         "102c0ab3-afdb-4f22-995d-7a347709eb57": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_c158ca90-70bb-4084-91fe-ded10c1a0e0e.png",
+            "image": "shopify:\/\/shop_images\/18.png",
             "image_by_url": "",
             "title": "Photography",
             "description": "",
@@ -566,7 +566,7 @@
         "7a034703-06a1-418b-a283-865f63cd907f": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_c158ca90-70bb-4084-91fe-ded10c1a0e0e.png",
+            "image": "shopify:\/\/shop_images\/14.png",
             "image_by_url": "",
             "title": "Copywriting",
             "description": "",
@@ -702,49 +702,49 @@
         "1657964777b2ee9e82-0": {
           "type": "image",
           "settings": {
-            "number_one": "5",
-            "number_second": "B+",
-            "title": "Active Social Media Users"
+            "number_one": "50",
+            "number_second": "+",
+            "title": "Clients"
           }
         },
         "1657964777b2ee9e82-1": {
           "type": "image",
           "settings": {
-            "number_one": "2",
-            "number_second": "K+",
-            "title": "Average Time spent on Social Media daily"
+            "number_one": "10",
+            "number_second": "$",
+            "title": "Million in Ad Spend Managed"
           }
         },
         "1657964777b2ee9e82-2": {
           "type": "image",
           "settings": {
-            "number_one": "7",
-            "number_second": "M+",
-            "title": "Average number of social platforms used each month"
+            "number_one": "2",
+            "number_second": "X",
+            "title": "Average Return on Ad Spend"
           }
         },
         "1657964777b2ee9e82-3": {
           "type": "image",
           "settings": {
-            "number_one": "98",
-            "number_second": "%",
-            "title": "Percentage of people that use Mobile phones for their social intake"
+            "number_one": "20",
+            "number_second": "K",
+            "title": "Ads Built"
           }
         },
         "770663e0-0a5e-4b69-940e-d28fc6b8af14": {
           "type": "image",
           "settings": {
-            "number_one": "73",
-            "number_second": "%",
-            "title": "Percentage of people that click on ads each month"
+            "number_one": "100",
+            "number_second": "+",
+            "title": "Video and Photography Shoots"
           }
         },
         "7bba8e10-fdd6-456e-ba6a-2b335acd4b9f": {
           "type": "image",
           "settings": {
-            "number_one": "58",
-            "number_second": "%",
-            "title": "Percentage of those on social media who have purchased a product or service online"
+            "number_one": "10",
+            "number_second": "K",
+            "title": "Static Ads created"
           }
         }
       },
@@ -775,7 +775,7 @@
         "16225125199f82d8fe-0": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/412c23_6ac5de7cb46240aaa825c5b323b1aed8_mv2.png",
+            "image": "shopify:\/\/shop_images\/Sam.png",
             "image_by_url": "",
             "title": "SAM RIX",
             "description": "<p>Co-Founder & Managing Director <\/p>",
@@ -789,7 +789,7 @@
         "16225125199f82d8fe-1": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_c158ca90-70bb-4084-91fe-ded10c1a0e0e.png",
+            "image": "shopify:\/\/shop_images\/Chris_Gross_d1bb0300-6da9-4842-9355-928d764cc1c3.png",
             "image_by_url": "",
             "title": "CHRIS GROSS",
             "description": "<p>King<\/p>",
@@ -803,7 +803,7 @@
         "16225125199f82d8fe-2": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/412c23_1b4d2fa30f514508be1b3bfc98920e58_mv2.png",
+            "image": "shopify:\/\/shop_images\/Sam_Bratby.png",
             "image_by_url": "",
             "title": "SAM BRATBY",
             "description": "<p>Creative Director | Film & Photo<\/p>",
@@ -817,7 +817,7 @@
         "86f40487-7436-4cee-bd9b-183d7d629abf": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/412c23_5171bf179606484e86a8fd472f7a1095_mv2.png",
+            "image": "shopify:\/\/shop_images\/Ellie.png",
             "image_by_url": "",
             "title": "ELLIE WILKINSON",
             "description": "<p>Senior Graphic Designer<\/p>",
@@ -831,7 +831,7 @@
         "a9e2998f-16ce-45e1-a6fd-a535d28ca4e5": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/412c23_7d10c675efa049e6b1450fcd87d1a624_mv2.png",
+            "image": "shopify:\/\/shop_images\/Isabel_91ed735e-f29e-44fc-aed9-ae7da19544c7.png",
             "image_by_url": "",
             "title": "ISABEL SANDERCOCK-BROWN",
             "description": "<p>SEO and Blog Expert<\/p>",
@@ -844,6 +844,7 @@
         },
         "a96e46d4-6981-4300-a2ab-f08be436e75d": {
           "type": "iconbox",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
             "image_by_url": "",
@@ -873,7 +874,7 @@
         "7a57b705-2ef3-4cd9-84e4-b1462cfe2387": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Erika_0a909761-0b6c-42df-a08e-90f8e295d7c4.jpg",
+            "image": "shopify:\/\/shop_images\/Erika.png",
             "image_by_url": "",
             "title": "Erika Munoz",
             "description": "<p>Performance Marketer<\/p>",
@@ -887,7 +888,7 @@
         "af71b915-0093-4b4a-bc11-5fb353c59886": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lina_01de52b5-6ad1-4af9-968d-00a31834667d.jpg",
+            "image": "shopify:\/\/shop_images\/Lina.png",
             "image_by_url": "",
             "title": "Lina Munoz",
             "description": "<p>Social Media Manager<\/p>",
@@ -901,7 +902,7 @@
         "35369292-aeae-439a-9ecc-42f483890229": {
           "type": "iconbox",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Tom_Wholohan_75eb1da9-be2f-4333-834b-9be3c05de232.png",
+            "image": "shopify:\/\/shop_images\/Tom.png",
             "image_by_url": "",
             "title": "Tom Wholohan",
             "description": "<p>Photographer<\/p>",
@@ -1054,8 +1055,7 @@
         "container": "container",
         "section_height": "medium",
         "align": "center",
-        "background_color": "#dacfba",
-        "background_image": "shopify:\/\/shop_images\/bg-image.jpg",
+        "background_color": "#ffffff",
         "heading": "Amount of time left to change your business this week",
         "time": "2022-07-23 23:58:00",
         "button_label": "",

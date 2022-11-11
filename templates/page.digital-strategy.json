@@ -90,8 +90,8 @@
           "type": "text",
           "settings": {
             "title": "",
-            "subheading": "<b>What is a digital strategy?<\/b>",
-            "text": "<p>A digital strategy is a written plan that clarifies your online goals and helps you put the right technology and processes in place to achieve these goals. Your online goals relate to your overall marketing objectives and what you want your business to achieve online.<\/p>",
+            "subheading": "<center>What is a digital strategy? A digital strategy is a written plan that clarifies your online goals and helps you put the right technology and processes in place to achieve these goals. Your online goals relate to your overall marketing objectives and what you want your business to achieve online.<\/center>",
+            "text": "",
             "width": "100%",
             "alignment": "center",
             "align_text": "left",
@@ -106,6 +106,7 @@
         },
         "1658226671cf4e2aef-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/412c23_99f3cfccf6454c5ea6e7947d598f41c6_mv2.png",
             "link": "",
@@ -116,6 +117,7 @@
         },
         "1a825d58-26c7-4b4a-bf07-28e93fc51c09": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "Talk about your brand",
             "subheading": "",
@@ -134,6 +136,7 @@
         },
         "623958ad-48e9-4e0d-8737-64bbc469dc54": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "<br>Talk about your brand",
             "subheading": "",
@@ -149,16 +152,25 @@
             "button_size": "",
             "block_custom_class": ""
           }
+        },
+        "7b44b5f6-2952-40ff-87d5-af586e6e1b7e": {
+          "type": "html",
+          "settings": {
+            "code": "<center><a href=\"https:\/\/so-shall-we.myshopify.com\/pages\/contact\" class=\"slide__block-link   inline-block sf__btn sf__btn-secondary \">\n                                            Contact Us\n                                        <\/a><\/center>",
+            "width": "100%",
+            "block_custom_class": ""
+          }
         }
       },
       "block_order": [
         "1658226671cf4e2aef-0",
         "1658226671cf4e2aef-1",
         "1a825d58-26c7-4b4a-bf07-28e93fc51c09",
-        "623958ad-48e9-4e0d-8737-64bbc469dc54"
+        "623958ad-48e9-4e0d-8737-64bbc469dc54",
+        "7b44b5f6-2952-40ff-87d5-af586e6e1b7e"
       ],
       "settings": {
-        "heading": "Talk about your brand Talk about your brand Talk about your brand ?",
+        "heading": "WE DO DIGITAL STRATEGY",
         "subheading": "",
         "description": "",
         "header_alignment": "center",

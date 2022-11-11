@@ -10,18 +10,19 @@
       "settings": {
         "container": "w-full",
         "hero_size": "small",
-        "show_overlay": true,
+        "show_overlay": false,
+        "image": "shopify:\/\/shop_images\/white-bg.png",
         "bg_position": "center",
         "image_link": "",
         "parallax": false,
-        "content_in_container": false,
+        "content_in_container": true,
         "content_position": "center middle",
         "text_alignment": "center",
         "text_size": "large",
-        "text_color": "white",
-        "title": "Your world-class team",
+        "text_color": "dark",
+        "title": "Your World-Class Team",
         "subtitle": "",
-        "text": "<p>Our team has worked in-house at the world's biggest brands, have worked in start-ups and eveything between. The team you see here, will be the team that will be working on your business. <\/p><p><\/p><p>Imagine the impact that this team could have on your business. <\/p>",
+        "text": "<p>Our team has worked with some of the worlds biggest brands, multiple start-ups and everything in between. With So Shall We we’ll give you a team that has every skillset needed for digital success. Imagine the impact we could have on your business? So, shall we? <\/p>",
         "button_label": "Contact us",
         "button_link": "",
         "button_style": "sf__btn-primary",
@@ -36,7 +37,7 @@
         "1657885576d62d4fe9-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/412c23_6ac5de7cb46240aaa825c5b32.jpg",
+            "image": "shopify:\/\/shop_images\/Sam.png",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -82,7 +83,7 @@
         "288adf2f-757e-40e5-aea8-fd117a236fcb": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/412c23_1b4d2fa30f514508be1b3bfc9.jpg",
+            "image": "shopify:\/\/shop_images\/Sam_Bratby.png",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -138,7 +139,7 @@
         "e4f120aa-906d-44db-9c0f-96bca76ab490": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/412c23_5171bf179606484e86a8fd472.jpg",
+            "image": "shopify:\/\/shop_images\/Ellie.png",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -148,7 +149,7 @@
         "354af07a-6d9c-4e23-ba79-d0bd254942c0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/412c23_7d10c675efa049e6b1450fcd8.jpg",
+            "image": "shopify:\/\/shop_images\/Isabel_91ed735e-f29e-44fc-aed9-ae7da19544c7.png",
             "link": "",
             "width": "50%",
             "alignment": "center",
@@ -175,6 +176,7 @@
         },
         "3794fb1c-192f-4747-9bd6-615c453cbbe9": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "TAYLOR WRIGHT",
             "subheading": "Social Director",
@@ -193,6 +195,7 @@
         },
         "6ce9e9a2-aa22-4607-ab44-ab04709e7d60": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/412c23_99f3cfccf6454c5ea6e7947d5.jpg",
             "link": "",

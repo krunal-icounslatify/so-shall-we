@@ -12,3 +12,11 @@
 .sf-icon-box.arrow-visibility.our-clients-wrapper .swiper-wrapper button{
   margin-top: 0;
 }
+
+div#sf-hero-template--15696121987262__16582808835e1a488f {
+    padding-bottom: 50px;
+}
+
+div#sf-hero-template--15696121987262__16582808835e1a488f .text-lg.mb-4.md\:mb-6.sf-hero__text.text-dark {
+    text-align: left;
+}

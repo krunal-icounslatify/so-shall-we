@@ -13,7 +13,7 @@
           "type": "textblock",
           "settings": {
             "title": "Address",
-            "content": "<p><strong>Fill in your details below for a free consultation and free proposal.<\/strong><\/p><p><\/p><p>There are no templated approaches in digital marketing. Every business is different. We like to understand the business and industry in its entirety before we begin.<\/p><p> <\/p><p>We would love to have a chat to understand exactly what your business needs! If it's sales, brand awareness, content, education or Google ads, we can help!<\/p>"
+            "content": "<p>2\/244 Palmer <br\/>St, Darlinghurst, <br\/>Sydney, 2010<\/p>"
           }
         },
         "text-block-2": {
@@ -55,6 +55,7 @@
     },
     "maps": {
       "type": "maps",
+      "disabled": true,
       "settings": {
         "container": "container",
         "map_height": "large",
